@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://139.129.12.21:4000/2015/08/22/hello-world/</loc>
+    <lastmod>2015-08-22T02:29:44.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://139.129.12.21:4000/2015/08/21/Test/</loc>
+    <lastmod>2015-08-21T07:58:11.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://139.129.12.21:4000/tags/index.html</loc>
+    <lastmod>2015-08-21T07:58:11.000Z</lastmod>
+  </url>
+  
+</urlset>
