@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.stupidyak.com/2015/12/03/NodeJsInAction/</loc>
+    <lastmod>2015-12-03T08:02:47.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.stupidyak.com/2015/09/28/itisdone/</loc>
     <lastmod>2015-09-28T14:59:17.000Z</lastmod>
   </url>
