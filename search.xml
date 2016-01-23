@@ -4,6 +4,14 @@
   
     
     <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>http://www.stupidyak.com/2016/01/22/hello-world/</url>
+      <content type="html"><![CDATA[<hr>
+<p>请访问呆若木牛的<a href="http://www.stupidyak.com">主页</a></p>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[NodeJsInAction]]></title>
       <url>http://www.stupidyak.com/2015/12/03/NodeJsInAction/</url>
       <content type="html"><![CDATA[<h3 id="Node-JS_in_Action">Node.JS in Action</h3><p>这本书不错，不过node已经大跃进了，更加简洁，模块化，书中的列子很多都不适用了，看书学习会比较费力。</p>
@@ -64,14 +72,6 @@
       <title><![CDATA[个人博客定制业务，包教包会]]></title>
       <url>http://www.stupidyak.com/2015/08/23/blog-make/</url>
       <content type="html"><![CDATA[<h3 id="生活所迫，出卖劳动力，定制个人博客，包教包会_：）">生活所迫，出卖劳动力，定制个人博客，包教包会 ：）</h3>]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[Hello World]]></title>
-      <url>http://www.stupidyak.com/2015/08/22/hello-world/</url>
-      <content type="html"><![CDATA[<hr>
-<p>请访问呆若木牛的<a href="http://www.stupidyak.com">主页</a></p>
-]]></content>
     </entry>
     
     <entry>
